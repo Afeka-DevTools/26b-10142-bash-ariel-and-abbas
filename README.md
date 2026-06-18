@@ -8,18 +8,18 @@
 
 All scripts are located in the `scripts/` folder.
 
-| Script | Description | Created By
-| --- | --- |
-| `uptime.sh` | Displays how long the system has been running. | Ariel
-| `disk_usage.sh` | Shows disk usage of each subdirectory in a given directory. | Ariel
-| `env_vars.sh` | Prints important environment variables. | Ariel
-| `sort_lines.sh` | Sorts the lines of a given file alphabetically. | Ariel
-| `user_info.sh` | Shows info about the current user: name, home, groups, and shell. | Ariel
-| `backup_dir.sh` | Backs up the contents of a given directory into a tar.gz file. | Abbas
-| `check_internet.sh` | Checks internet connectivity and prints a log to the screen. | Abbas
-| `random_password.sh` | Generates a random 10-character password with at least one uppercase, lowercase, digit, and special character. | Abbas
-| `delete_old_files.sh` | Deletes files older than X days from a given directory. | Abbas
-| `weather.sh` | Fetches and displays the current weather for a given city (via wttr.in). | Abbas
+| Script | Description | Created By |
+| --- | --- | --- |
+| `uptime.sh` | Displays how long the system has been running. | Ariel |
+| `disk_usage.sh` | Shows disk usage of each subdirectory in a given directory. | Ariel |
+| `env_vars.sh` | Prints important environment variables. | Ariel |
+| `sort_lines.sh` | Sorts the lines of a given file alphabetically. | Ariel |
+| `user_info.sh` | Shows info about the current user: name, home, groups, and shell. | Ariel |
+| `backup_dir.sh` | Backs up the contents of a given directory into a tar.gz file. | Abbas |
+| `check_internet.sh` | Checks internet connectivity and prints a log to the screen. | Abbas |
+| `random_password.sh` | Generates a random 10-character password with at least one uppercase, lowercase, digit, and special character. | Abbas |
+| `delete_old_files.sh` | Deletes files older than X days from a given directory. | Abbas |
+| `weather.sh` | Fetches and displays the current weather for a given city (via wttr.in). | Abbas |
 
 ## Setup
 
